@@ -40,6 +40,8 @@
   <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
+##
+
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandohrocha&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   </a>    
@@ -48,25 +50,25 @@
 
 ### Bancos de dados que moram no meu <3
 
-<div align=center>
+<div>
   <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
 
 ### Frameworks aos quais me adaptei e gostei
-<div align=center>
+<div>
   <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
 ### A IDE inigualável
-<div align=center>
+<div>
   <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
 ### Outras tecnologias com as quais tive experiências prazerosas
 
-<div align=center>
+<div>
   <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
