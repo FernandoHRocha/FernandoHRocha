@@ -43,9 +43,9 @@
 ##
 
 <div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fernandohrocha&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandohrocha&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   </a>    
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohrocha&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohrocha&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 
 ### Bancos de dados que moram no meu <3
