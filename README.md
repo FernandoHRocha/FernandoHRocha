@@ -1,17 +1,19 @@
-# Olá eu sou o Fernando e fico feliz que esteja aqui.
+# Olá eu sou o Fernando fico feliz que esteja lendo meu perfil.
 
 ### Trabalho Atual
-💰 Analista de Licitação.
+💰 Programador Aprendiz.
 
-🧐 Meu perfil proativo somado com a dedicação e criatividade empenhados na função gerou automações em python que tiveram impacto significativo no setor de licitação da empresa, atualmente me dedico ao desenvolvimento de software e banco de dados para os processos da empresa. (além da rotina de trabalho normal hehe)
+🧐 O perfil de programador que demonstro hoje teve início quando era encarregado pelo setor de licitação.
+
+Diante de processos repetitivos e demorados, desenvolvi automações web scraping em python. Assim consegui demonstrar meus conhecimentos e habilidades em programação, consequentemente meu atual e primeiro cargo como desenvolvedor foi conquistado.
 
 ### Estudos
-📚 3º Ano do curso de Física na Universidade Estadual do Centro Oeste.
+📚 4º Ano do curso de Física na Universidade Estadual do Centro Oeste.
 
-🧭 Recentemente me dedico a estudar sobre: Automação (pois faz a diferença no meu trabalho), APIs e integrações entre diferentes tipos de sistemas.
+🧭 Recentemente me dedico a estudar as tecnologias que são utilizadas dentro da empresa, principalmente os frameworks Laravel e Angular utilizando TailWind, com banco de dados MySql.
 
 ### Objetivo Atual
-🏆 Uma vaga de trabalho como programador, para poder crescer.
+🏆 Me fortalecer em Tecnologia da Informação e ser um profissional FullStack será o resultado da minha consolidação no mercado de trabalho.
 
 ## Redes Sociais
 <div align=center>
