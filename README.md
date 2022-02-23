@@ -1,7 +1,7 @@
 # Olá eu sou o Fernando fico feliz que esteja lendo meu perfil.
 
 ### Trabalho Atual
-💰 Programador Aprendiz.
+💰 Programador trainee.
 
 🧐 O perfil de programador que demonstro hoje teve início quando era encarregado pelo setor de licitação.
 
