@@ -1,16 +1,37 @@
 # Olá eu sou o Fernando fico feliz que esteja lendo meu perfil.
 
 ### Trabalho Atual
-💰 Programador trainee.
+💰 Desenvolvedor FullStack 🧑‍🎓 Trainee
 
-🧐 O perfil de programador que demonstro hoje teve início quando era encarregado pelo setor de licitação.
+🧐 Dedicações atuais:
 
-Diante de processos repetitivos e demorados, desenvolvi automações web scraping em python. Assim consegui demonstrar meus conhecimentos e habilidades em programação, consequentemente meu atual e primeiro cargo como desenvolvedor foi conquistado.
+Web:
+
+Front-end:
+  - HTML 5, CSS 3, Javascript.
+  - Framework Angular versão 13 em typescript utilizando framework css tailwind.
+  - Framework Laminas em php utilizando framework css bootstrap.
+
+Backend:
+  - Containerização de aplicações utilizando Docker.
+  - Framework Laravel versão 8 em php com conexão a banco de dados em SQL.
+
+Mobile:
+  - Experiência com Framework Flutter em Dart.
+
+Experiências:
+  Backend:
+    - Experiência em projeto com Node.js.
+    - Experiência com Sistemas Gerenciadores de Bancos de Dados web.
+    - Experiência com automações para sistema Windows e navegação Web com python.
+  Games:
+    - Experiência em desenvolvimento Unity com Javascript e C#.
+
 
 ### Estudos
 📚 4º Ano do curso de Física na Universidade Estadual do Centro Oeste.
 
-🧭 Recentemente me dedico a estudar as tecnologias que são utilizadas dentro da empresa, principalmente os frameworks Laravel e Angular utilizando TailWind, com banco de dados MySql.
+🧭 Recentemente me dedico a estudar as tecnologias que são utilizadas em meu maravilhoso trabalho.
 
 ### Objetivo Atual
 🏆 Me fortalecer em Tecnologia da Informação e ser um profissional FullStack será o resultado da minha consolidação no mercado de trabalho.
