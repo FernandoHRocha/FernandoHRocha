@@ -1,5 +1,35 @@
 # Fernando Henrique Rocha - Desenvolvedor Fullstack
 
+## Contato
+
+<div align=center>
+<a href="https://www.linkedin.com/in/fernandohrocha/" target="_blank">
+<img height=30em href="" src="https://img.shields.io/static/v1?label=LinkedIn&message=fernandohrocha&color=blue&style=for-the-badge" />
+</a>
+<a href="https://api.whatsapp.com/send/?phone=5542991262851&text=Ol%C3%A1%20Fernando,%20estive%20em%20seu%20GitHub" target="_blank">
+<img height=30em href="" src="https://img.shields.io/static/v1?label=WhatsApp&message=(42)99126-2851&color=green&style=for-the-badge" />
+</a>
+<a href="mailto:fhrlobacz@gmail.com" target="_blank">
+<img height=30em href="" src="https://img.shields.io/static/v1?label=E-Mail&message=fhrlobacz@gmail.com&color=red&style=for-the-badge" />
+</a>
+</div>
+
+## Perfil
+
+### Estudos
+📚 4º Ano de Licenciatura em Física cursado na Universidade Estadual do Centro Oeste.
+
+### Objetivo Atual
+🏆 Me fortalecer em Tecnologia da Informação e ser um profissional FullStack de grande sucesso.
+## Primeiro Projeto
+Automação em web e em gestão empresarial em licitação.
+### Soluções em Tecnologia empregadas :
+    - Banco de dados relacional Sql (o teste de validação se deu utilizando planilhas excel);
+    - Coleta de dados web via python com utilização da biblioteca selenium;
+    - Dashboard de controle e consultas em pysui.
+
+### Estudos atuais
+
 Web:
 
 Front-end:
@@ -21,28 +51,6 @@ Experiências:
     - Experiência com automações para sistema Windows e navegação Web com python.
   Games:
     - Experiência em desenvolvimento Unity com Javascript e C#.
-
-### Estudos
-📚 4º Ano do curso de Física na Universidade Estadual do Centro Oeste.
-
-Nos itens que seu preço não alcançaram o priemiro lugar, mas ficaram próximos, abrirá a possibilidade de se inscrever no cadastro de reserva. Assim caso o fornecedor não consiga cumprir seu compromisso para com o órgão, sua empresa assuma o compromisso para o item.
-
-### Objetivo Atual
-🏆 Me fortalecer em Tecnologia da Informação e ser um profissional FullStack será o resultado da minha consolidação no mercado de trabalho.
-
-## Redes Sociais
-<div align=center>
-<a href="https://www.linkedin.com/in/fernando-henrique-rocha-464b541b9/" target="_blank">
-<img height=30em href="" src="https://img.shields.io/static/v1?label=LinkedIn&message=Fernando%20Rocha&color=blue&style=for-the-badge" />
-</a>
-<a href="https://api.whatsapp.com/send/?phone=5542991262851&text=Ol%C3%A1%20Fernando,%20estive%20em%20seu%20GitHub" target="_blank">
-<img height=30em href="" src="https://img.shields.io/static/v1?label=WhatsApp&message=(42)99126-2851&color=green&style=for-the-badge" />
-</a>
-<a href="mailto:fhrlobacz@gmail.com" target="_blank">
-<img height=30em href="" src="https://img.shields.io/static/v1?label=E-Mail&message=fhrlobacz@gmail.com&color=red&style=for-the-badge" />
-</a>
-</div>
-
 
 ### Linguagens que gosto:
 
