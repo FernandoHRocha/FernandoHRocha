@@ -1,5 +1,6 @@
 # Projeto BigNail
 
+<<<<<<< HEAD
 ## Descrição do projeto
 Automações em web e em gestão baseados na participação empresarial em processos licitatórios da modalidade pregão.
 
@@ -21,12 +22,24 @@ Para cada item registrado, os fornecedores disputam durante um intervalo de temp
 
 #### Julgamento da Proposta.
 O responsável pelo andamento do processo é denominado Pregoeiro(a) e irá avaliar as condições indicadas na proposta de preços, os itens, e a documentação enviada pelo fornecedor. Caso algum destes não se encaixe nos termos do edital algumas ações podem ser tomadas, como a **solicitação de um documento** atualizado dentro de um prazo determinado pelo pregoeiro, ou mesmo a **desclassificação** do ganhador.
+=======
+### Trabalho Atual
+💰 Programador trainee.
+
+🧐 O perfil de programador que demonstro hoje teve início quando era encarregado pelo setor de licitação.
+
+Diante de processos repetitivos e demorados, desenvolvi automações web scraping em python. Assim consegui demonstrar meus conhecimentos e habilidades em programação, consequentemente meu atual e primeiro cargo como desenvolvedor foi conquistado.
+>>>>>>> parent of f32b167 (23/02/2022)
 
 #### Homologação dos Itens.
 Um a um, os itens serão homologados, indicando que provisóriamente você é detentor do melhor preço para determinado(s) item(s) e não a nada que a desabone referente a sua documentação.
 Aqui os itens **homologados** ainda podem ser revertidos para a fase de julgamento devido a um recurso, que é o meio disponível para que outro fornecedor (incluido a sua empresa) proteste determinada decisão do pregoeiro, como uma desclassificação injusta ou erronea, ou a homologação de um modelo de produto que não atende a todos os requisitos do item no edital.
 
+<<<<<<< HEAD
 Nos itens que seu preço não alcançaram o priemiro lugar, mas ficaram próximos, abrirá a possibilidade de se inscrever no cadastro de reserva. Assim caso o fornecedor não consiga cumprir seu compromisso para com o órgão, sua empresa assuma o compromisso para o item.
+=======
+🧭 Recentemente me dedico a estudar as tecnologias que são utilizadas dentro da empresa, principalmente os frameworks Laravel e Angular utilizando TailWind, com banco de dados MySql.
+>>>>>>> parent of f32b167 (23/02/2022)
 
 #### Duração do contrato
 Comumente a **Ata de Registro de Preços** (ou ARP) tem prazo de vigência de 12 meses, durante tal período, o órgão com o qual o contrato foi assinado, **PODE** realizar uma ou várias solicitações de fornecimento para o fornecedor por meio de uma **Nota de Empenho**. Nela são especificados quais e quantos itens estão sendo solicitados (além de outras informações importantes).
