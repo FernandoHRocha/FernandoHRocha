@@ -1,99 +1,139 @@
-# Olá eu sou o Fernando fico feliz que esteja lendo meu perfil.
+# Projeto BigNail
 
-### Trabalho Atual
-💰 Desenvolvedor FullStack 🧑‍🎓 Trainee
+## Descrição do projeto
+Automações em web e em gestão baseados na participação empresarial em processos licitatórios da modalidade pregão.
 
-🧐 Dedicações atuais:
+## Pregão
 
-Web:
+### Introdução
+O pregão é uma modalidade da licitação, onde o processo acontece online, por meio de plataformas online como o [ComprasNet](http://www.comprasnet.gov.br/seguro/loginPortal.asp).
 
-Front-end:
-  - HTML 5, CSS 3, Javascript.
-  - Framework Angular versão 13 em typescript utilizando framework css tailwind.
-  - Framework Laminas em php utilizando framework css bootstrap.
+### Ciclo de Vida de um Pregão.
 
-Backend:
-  - Containerização de aplicações utilizando Docker.
-  - Framework Laravel versão 8 em php com conexão a banco de dados em SQL.
+#### Publicação do Edital.
+Os processos de licitação por pregão são processos onde empresas participam a fim de disputar o direito exclusivo de venda e/ou prestação de serviços específicos para determinados órgãos, por meio de aquisições que contemplam integral ou parcialmente a porção de itens licitados no edital de participação.
 
-Mobile:
-  - Experiência com Framework Flutter em Dart.
+#### Registro da Proposta de Preços.
+As empresas interessadas estão de acordo com o edital devem registrar na plataforma os itens que desejam disputar, necessariamente especificando marca, modelo, preço, quantidade e descrição dos itens e/ou serviços. É quando sa empresa submeter a **proposta de preços** (documento confeccionado pela empresa declarando participação no processo e declarando os itens/serviços de interesse), e os **documentos da empresa** de capacitação e regularização da empresa necessarios para participação no processo.
 
-Experiências:
-  Backend:
-    - Experiência em projeto com Node.js.
-    - Experiência com Sistemas Gerenciadores de Bancos de Dados web.
-    - Experiência com automações para sistema Windows e navegação Web com python.
-  Games:
-    - Experiência em desenvolvimento Unity com Javascript e C#.
+#### Disputa de Lances.
+Para cada item registrado, os fornecedores disputam durante um intervalo de tempo, para decidir quem está disposto a oferecer tal produto pelo menor preço. O menor lance fica temporariamente classificado como ganhador daquele item.
 
+#### Julgamento da Proposta.
+O responsável pelo andamento do processo é denominado Pregoeiro(a) e irá avaliar as condições indicadas na proposta de preços, os itens, e a documentação enviada pelo fornecedor. Caso algum destes não se encaixe nos termos do edital algumas ações podem ser tomadas, como a **solicitação de um documento** atualizado dentro de um prazo determinado pelo pregoeiro, ou mesmo a **desclassificação** do ganhador.
 
-### Estudos
-📚 4º Ano do curso de Física na Universidade Estadual do Centro Oeste.
+#### Homologação dos Itens.
+Um a um, os itens serão homologados, indicando que provisóriamente você é detentor do melhor preço para determinado(s) item(s) e não a nada que a desabone referente a sua documentação.
+Aqui os itens **homologados** ainda podem ser revertidos para a fase de julgamento devido a um recurso, que é o meio disponível para que outro fornecedor (incluido a sua empresa) proteste determinada decisão do pregoeiro, como uma desclassificação injusta ou erronea, ou a homologação de um modelo de produto que não atende a todos os requisitos do item no edital.
 
-🧭 Recentemente me dedico a estudar as tecnologias que são utilizadas em meu maravilhoso trabalho.
+Nos itens que seu preço não alcançaram o priemiro lugar, mas ficaram próximos, abrirá a possibilidade de se inscrever no cadastro de reserva. Assim caso o fornecedor não consiga cumprir seu compromisso para com o órgão, sua empresa assuma o compromisso para o item.
 
-### Objetivo Atual
-🏆 Me fortalecer em Tecnologia da Informação e ser um profissional FullStack será o resultado da minha consolidação no mercado de trabalho.
+#### Duração do contrato
+Comumente a **Ata de Registro de Preços** (ou ARP) tem prazo de vigência de 12 meses, durante tal período, o órgão com o qual o contrato foi assinado, **PODE** realizar uma ou várias solicitações de fornecimento para o fornecedor por meio de uma **Nota de Empenho**. Nela são especificados quais e quantos itens estão sendo solicitados (além de outras informações importantes).
 
-## Redes Sociais
-<div align=center>
-<a href="https://www.linkedin.com/in/fernando-henrique-rocha-464b541b9/" target="_blank">
-<img height=30em href="" src="https://img.shields.io/static/v1?label=LinkedIn&message=Fernando%20Rocha&color=blue&style=for-the-badge" />
-</a>
-<a href="https://api.whatsapp.com/send/?phone=5542991262851&text=Ol%C3%A1%20Fernando,%20estive%20em%20seu%20GitHub" target="_blank">
-<img height=30em href="" src="https://img.shields.io/static/v1?label=WhatsApp&message=(42)99126-2851&color=green&style=for-the-badge" />
-</a>
-<a href="mailto:fhrlobacz@gmail.com" target="_blank">
-<img height=30em href="" src="https://img.shields.io/static/v1?label=E-Mail&message=fhrlobacz@gmail.com&color=red&style=for-the-badge" />
-</a>
-</div>
+_Importante ressaltar que o órgão pode solicitar um, vários ou nem mesmo um único pedido de empenho durante o prazo de vigência da ARP._
 
+Os itens que o fornecedor possui como homologados são públicos, o que os torna visível para outros órgãos. Quando um órgão encontra itens de seu interesse em um pregão de outro órgão, ele pode submeter um **pedido de carona** ao fornecedor, expressando os itens e as quantidades de cada um, de modo que caso aceito pela empresa, o órgão requisitante da carona irá ser detentor da quantidade dos itens solicitados, gerando assim um contrato dos itens daquele pregão com outro órgão.
 
-😄 Se você achou meu perfil interessante, entre em contato comigo pelas redes sociais, será um prazer bater um papo.
+O tempo de vigência de uma ARP é, comumente de um ano, acarretando na possibilidade de oscilação de preço dos itens. Os editais preveem essa situação e declaram em seus termos **pesquisas de preço periódicas**, que servem para avaliar a situação do mercado em relação aos preços, sendo eles mais vantajosos ou que inviabilizem o atual contrato, de forma a tentar manter o contrato.
 
-### Linguagens que gosto:
+Mais a frente entraremos em detalhes a respeito dos pedidos de empenho, carona e reequilibrio financeiro
 
-<div align=center>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</div>
+#### Cadastro Reserva
+Pode ocorrer de em algum processo, mesmo que sua empresa não tenha sido detentora do melhor preço de nem um item, um fornecedor não conseguir atender ao órgão, assim, o órgão irá procurar os outros participantes que se increveram no cadastro de reserva daquele item, para então assinarem a ARP do item e sua empresa começar a fornecer aquele item.
 
-##
+----
 
-<div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandohrocha&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  </a>    
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohrocha&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-</div>
+### Fases do Pregão
 
-### Bancos de dados que moram no meu <3
+#### Proposta
+Itens cotados e prontos para registro no comprasnet
+#### Julgamento
+Logo após a disputa de preços o pregão encontra-se em julgamento até que todos os seus itens sejam homologados, e enquanto isso não ocorre, ainda existe chance de ganhar algum dos itens.
+#### Homologado
+Pregão com itens ganhos, logo após a documentação submetida ser aceita, o processo encontra-se como homologado.
+#### Frustrado
+Pregão onde todos os itens já foram homologados e nenhum deles foi ganho pela empresa.
+#### Suspenso
+A disputa de preços foi suspensa ou adiada sem data prevista para retomada.
+#### Finalizado
+Pregões ganhos e que já não possuem mais itens em aberto, seja por empenho de todas as quantidades dos itens ou por encerramento do tempo de contrato previsto na Ata de Registro de Preços.
 
-<div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-</div>
+----
 
-### Frameworks aos quais me adaptei e gostei
-<div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-</div>
+### Pedidos
+### Pedido de Empenho
+Pedido de fornecimento de item(s) homologados pelo órgão detentor do pregão ou da carona (devidamente aceita).
+O empenho é a ordem de fornecimento de um ou mais itens do contrato, o prazo de entrega é definido em edital. Para manter um controle adequado é necessário prestar atenção aos dados do pregão, do órgão (pois pode ser de um pedido de carona) e do código de identificação da nota de empenho.
 
-### A IDE inigualável
-<div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-</div>
+### Fases de um Empenho
+#### Solicitado
+Compreendido entre o intervalo entre o recebimento da nota de empenho, e a efetiva entrega dos itens da nota.
+#### Entregue
+Os itens da nota de empenho foram entregues, mas ainda não fora recebido o valor da nota.
+#### Finalizado
+A nota de empenho já foi entregue e seu valor recebido pela empresa.
 
-### Outras tecnologias com as quais tive experiências prazerosas
+----
 
-<div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-</div>
+### Pedido de Carona
+Pedido realizado por um órgão para a empresa.
+Cabe a empresa aceitar oferecer os itens homologados para o órgão requisitante, uma vez que as condições de fornecimento dos itens são afetadas, a empresa deve tomar o cuidado manter um contrato vantajoso.
+
+Para aceitar o pedido de carona a empresa deve enviar ao órgão requisitante um termo de anuência à carona.
+Para tal existe um modelo de Declaracao Anuencia Carona.
+
+### Fases de uma Carona
+#### Aceita
+O pedido de carona foi aceito pela empresa.
+#### Empenhada
+O órgão quesitante empenhou todas as unidades dos itens da carona encerrando assim o contrato com a empresa.
+
+----
+
+### Pedido de Reequilibrio Econômico
+Pedido realizado pela empresa afim de manter as condições do contrato sem prejuízos devido a fatores externos, como falta de estoque ou demasiada inflação.
+Caso a empresa necessite submeter um pedido de reequilibrio financeiro, é necessário a comprovação fundamentada da motivação em faze-lo. Para tal existe um modelo de Pedido Reequilibrio Financeiro.
+
+#Fases de um Pedido de Reequilíbrio Financeiro
+#### Pendente
+Entende-se como tal, o conjunto de itens de determinado pregão que necessita de um pedido de reequilibrio financeiro por qualquer motivo, mas que ainda não foi submetido ao órgão.
+#### Análise
+O pedido foi enviado ao Órgão, mas ainda não se teve um retorno do mesmo.
+#### Aprovado
+O reajuste foi aceito e os preços dos itens foram alterados, a partir da data de aceitação do pedido, os novos empenhos serão realizados de acordo com o novo preço acordado.
+#### Recusado
+Não possível negociar o valor dos itens, geralmente o fornecedor é liberado de seu compromisso com o órgão.
+
+----
+
+# Sobre o Sistema de Gestão ERP BigNail
+### Operações comuns a todos os pregões
+- Consulta aos itens cotados
+- Abrir a pasta de cotação
+
+### Operações Limitadas a Categoria do Pregão
+#### Proposta
+- Registrar disputa
+- Alterar a data de abertura
+
+#### Julgamento
+- Frustrar
+- Homologar
+
+#### Homologado
+- Registrar empenho
+- Registrar carona
+- Registrar reequilibrio
+- Finalizar Pregão
+
+#### Frustrado
+- Restaurar
+- Alterar data de abertura
+
+#### Finalizado
+
+#### Suspenso
+- Frustrar
+- Restaurar
+- Alterar data de abertura
