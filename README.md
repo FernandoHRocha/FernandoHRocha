@@ -39,65 +39,109 @@ Automação em web e em gestão empresarial em licitação.
     - Dashboard de controle e consultas em pysui.
 
 ### Experiência :
-<div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />Laravel
+<div align=center>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />Angular
+  Laravel
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" />Zend Framework
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />TailWind Css
+  Angular
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />NodeJs
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" />
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />NPM
+  Zend Framework
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />React
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />Flutter
+  TailWind Css
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />Docker
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <br>
+  NodeJs
+  <br>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <br>
+  NPM
+  <br>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <br>
+  React
+  <br>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <br>
+  Flutter
+  <br>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <br>
+  Docker
 </div>
 
 ### Estudei tecnologias como:
 
 <div align=center>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />Python
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <br>
+  Python
     <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />Javascript
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <br>
+  Javascript
     <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />CSS
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <br>
+  CSS
     <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />HTML
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <br>
+  HTML
     <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />Dart
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
+  <br>
+  Dart
     <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />C#
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <br>
+  C#
 </div>
 
 ### Bancos de dados que moram no meu <3
 
-<div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />MySql
+<div align=center>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />Sql Server
+  MySql
+  <br>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <br>
+  Sql Server
 </div>
 
 
 
 ### A IDE inigualável
-<div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />VS Code
+<div align=center>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <br>
+  VS Code
 </div>
 
 ### Outras tecnologias com as quais tive experiências prazerosas
 
-<div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />Git
+<div align=center>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />Heroku
+  Git
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />Unity 3D
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <br>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" /> Bit Bucket
+  Heroku
+  <br>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+  <br>
+  Unity 3D
+  <br>
+  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+  <br>
+   Bit Bucket
 </div>
