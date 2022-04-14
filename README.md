@@ -38,23 +38,25 @@ Automação em web e em gestão empresarial em licitação.
     - Coleta de dados web via python com utilização da biblioteca selenium;
     - Dashboard de controle e consultas em pysui.
 
-### Experiência com
+### Experiência :
 <div>
   Laravel<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <br>
-  Angular<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  Angular<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <br>
-  Zend Framework<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" />
+  Zend Framework<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" />
   <br>
-  TailWind Css<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  TailWind Css<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <br>
-  NodeJs<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <br>    
-  NPM<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />     
+  NodeJs<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <br>
+  NPM<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <br>
   React<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <br>
   Flutter<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <br>
+  Docker<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
 
 ### Estudei tecnologias como:
