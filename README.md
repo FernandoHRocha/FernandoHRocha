@@ -15,6 +15,16 @@
 </div>
 
 ## Perfil
+Desenvolvedor com experiência em Web Fullstack contemplando backend, frontend e banco de dados relacional, atuação em projetos ERP e automação.
+
+Com sede em estudos e crescimento profissional.
+
+### Github
+<div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandohrocha&show_icons=true&theme=discord_old_blurple&hide=prs,stars,contribs,issues&include_all_commits=true&count_private=true"/>
+  </a>    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohrocha&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+</div>
 
 ### Estudos
 📚 4º Ano de Licenciatura em Física cursado na Universidade Estadual do Centro Oeste.
@@ -28,72 +38,64 @@ Automação em web e em gestão empresarial em licitação.
     - Coleta de dados web via python com utilização da biblioteca selenium;
     - Dashboard de controle e consultas em pysui.
 
-### Estudos atuais
-
-Web:
-
-Front-end:
-  - HTML 5, CSS 3, Javascript.
-  - Framework Angular versão 13 em typescript utilizando framework css tailwind.
-  - Framework Laminas em php utilizando framework css bootstrap.
-
-Backend:
-  - Containerização de aplicações utilizando Docker.
-  - Framework Laravel versão 8 em php com conexão a banco de dados em SQL.
-
-Mobile:
-  - Experiência com Framework Flutter em Dart.
-
-Experiências:
-  Backend:
-    - Experiência em projeto com Node.js.
-    - Experiência com Sistemas Gerenciadores de Bancos de Dados web.
-    - Experiência com automações para sistema Windows e navegação Web com python.
-  Games:
-    - Experiência em desenvolvimento Unity com Javascript e C#.
-
-### Linguagens que gosto:
-
-<div align=center>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+### Experiência com
+<div>
+  Laravel<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <br>
+  Angular<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <br>
+  Zend Framework<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" />
+  <br>
+  TailWind Css<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <br>
+  NodeJs<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <br>    
+  NPM<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />     
+  <br>
+  React<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <br>
+  Flutter<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
-##
+### Estudei tecnologias como:
 
-<div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandohrocha&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  </a>    
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohrocha&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+<div align=center>
+  Python<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <br>
+  Javascript<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <br>
+  CSS<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <br>
+  HTML<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <br>
+  Dart<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
+    <br>
+  C#<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 ### Bancos de dados que moram no meu <3
 
 <div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  MySql<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <br>
+  Sql Server<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
 
-### Frameworks aos quais me adaptei e gostei
-<div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-</div>
+
 
 ### A IDE inigualável
 <div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  VS Code<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
 ### Outras tecnologias com as quais tive experiências prazerosas
 
 <div>
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-  <img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+  Git<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <br>
+  Heroku<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+  <br>
+  Unity 3D<img height=80em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+  <br>
+  Bit Bucket<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" /> 
 </div>
