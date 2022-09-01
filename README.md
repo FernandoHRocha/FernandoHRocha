@@ -9,8 +9,8 @@
     <a href="https://www.linkedin.com/in/fernandohrocha/" target="_blank">
         <img height=30em href="" src="https://img.shields.io/static/v1?label=LinkedIn&message=fernandohrocha&color=blue&style=for-the-badge" />
     </a>
-    <a href="https://api.whatsapp.com/send/?phone=5542991262851&text=Ol%C3%A1%20Fernando,%20estive%20em%20seu%20GitHub" target="_blank">
-        <img height=30em href="" src="https://img.shields.io/static/v1?label=WhatsApp&message=(42)99126-2851&color=green&style=for-the-badge" />
+    <a href="https://api.whatsapp.com/send/?phone=5542991446487&text=Ol%C3%A1%20Fernando,%20estive%20em%20seu%20GitHub" target="_blank">
+        <img height=30em href="" src="https://img.shields.io/static/v1?label=WhatsApp&message=(42)99144-6487&color=green&style=for-the-badge" />
     </a>
     <a href="mailto:fhrlobacz@gmail.com" target="_blank">
         <img height=30em href="" src="https://img.shields.io/static/v1?label=E-Mail&message=fhrlobacz@gmail.com&color=red&style=for-the-badge" />
