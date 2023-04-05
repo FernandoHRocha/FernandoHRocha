@@ -3,7 +3,7 @@
 ## Contato
 
 <div align=center>
-    <a href="www.nandorocha.com.br" target="_blank">
+    <a href="https://www.nandorocha.com.br" target="_blank">
         <img height=30em href="" src="https://img.shields.io/static/v1?label=Site&message=nandorocha&color=purple&style=for-the-badge" />
     </a>
     <a href="https://www.linkedin.com/in/fernandohrocha/" target="_blank">
