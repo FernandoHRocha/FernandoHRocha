@@ -1,5 +1,8 @@
 # Fernando Henrique Rocha - Desenvolvedor Fullstack
 
+
+[](https://badges.pufler.dev/visits/FernandoHRocha/FernandoHRocha)
+
 ## Contato
 
 <div align=center>
