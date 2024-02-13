@@ -28,7 +28,7 @@ Minhas melhroes atuações foram em projetos ERP e automação sempre atento aos
 Com sede em estudos e crescimento profissional, não limitado a apenas o desenvolvimento de software, mas aos reais objetivos de cada projeto.
 
 ### Estudos
-📚 Cursando 2º Semestre em Engenharia de Software.
+📚 Cursando 3º Semestre em Engenharia de Software.
 
 Alcancei o 4º Ano de Licenciatura em Física na Universidade Estadual do Centro Oeste, quando encontrei minha paixão no desenvolvimento de Software.
 
